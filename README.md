@@ -1,4 +1,4 @@
-# statuten
+# Statuten
 Hier findest du transparent die jeweils aktuellsten Statuen des Vereins «utility-open.ch». Auch frühere Versionen finden sich hier.
 
 ## Warum geschwärzte Unterschriften?
